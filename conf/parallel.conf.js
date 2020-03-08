@@ -19,7 +19,7 @@ exports.config = {
   },{
     browser: 'firefox'
   },{
-    browser: 'internet explorer'c
+    browser: 'internet explorer'
   },{
     browser: 'safari'
   }],
