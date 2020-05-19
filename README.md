@@ -18,3 +18,10 @@ Step 3: To run tests individually
 Step 4: To run tests in parallel
           
           npm test parallel
+          
+## License
+
+This project is licensed under the MIT License - see [here](https://mit-license.org/) for details
+
+## Author
+Giridhar Rajkumar
